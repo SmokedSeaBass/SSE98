@@ -1,7 +1,7 @@
 # ![](SSE98/places/64/start-here.png)SSE98 Icon theme
 A fork of nestoris's SE98 GNU/Linux icon theme that aims to add missing/incomplete icons.
 
-# ![](SSE98/status/64/dialog-info.png)Notes from original author
+# ![](SSE98/status/64/dialog-information.png)Notes from original author
 [ ![](SSE98/apps/32/firefox.png) [Please vote for the Firefox icon!](https://github.com/nestoris/Win98SE/discussions/32) <img src=https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg width=32 height=32> ]
 
 [ [For software developers: I need your help!](https://github.com/nestoris/Win98SE/discussions/33) ]
