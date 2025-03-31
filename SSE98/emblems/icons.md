@@ -1,6 +1,6 @@
 # Emblems
 
-Total **42** icons in **emblems** context.
+Total **43** icons in **emblems** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|**10x10**|
 |-|-|-|-|-|-|-|-|
@@ -27,6 +27,7 @@ Total **42** icons in **emblems** context.
 |**emblem-important**|![](64/emblem-important.png)|![](48/emblem-important.png)|![](32/emblem-important.png)|![](24/emblem-important.png)|![](22/emblem-important.png)|![](16/emblem-important.png)|![](10/emblem-important.png)|
 |**emblem-locked**|![](64/emblem-locked.png)|![](48/../../status/48/locked.png)<details><summary>*link:* </summary>*../../status/48/locked.png*</details>|![](32/../../status/32/locked.png)<details><summary>*link:* </summary>*../../status/32/locked.png*</details>|![](24/../../status/24/locked.png)<details><summary>*link:* </summary>*../../status/24/locked.png*</details>|![](22/../../status/22/locked.png)<details><summary>*link:* </summary>*../../status/22/locked.png*</details>|![](16/../../status/16/locked.png)<details><summary>*link:* </summary>*../../status/16/locked.png*</details>|![](10/emblem-locked.png)|
 |**emblem-mail**|![](64/emblem-mail.png)|![](48/emblem-mail.png)|![](32/emblem-mail.png)|![](24/emblem-mail.png)|![](22/emblem-mail.png)|![](16/emblem-mail.png)|![](10/emblem-mail.png)|
+|**emblem-music-symbolic**|![](64/../../apps/64/sound.png)<details><summary>*link:* </summary>*../../apps/64/sound.png*</details>|![](48/../../apps/48/sound.png)<details><summary>*link:* </summary>*../../apps/48/sound.png*</details>|![](32/../../apps/32/sound.png)<details><summary>*link:* </summary>*../../apps/32/sound.png*</details>|![](24/../../apps/24/sound.png)<details><summary>*link:* </summary>*../../apps/24/sound.png*</details>|![](22/../../apps/22/sound.png)<details><summary>*link:* </summary>*../../apps/22/sound.png*</details>|![](16/../../apps/16/sound.png)<details><summary>*link:* </summary>*../../apps/16/sound.png*</details>|![](10/emblem-music-symbolic.png)|
 |**emblem-new**|![](64/emblem-new.png)|![](48/emblem-new.png)|![](32/emblem-new.png)|![](24/emblem-new.png)|![](22/emblem-new.png)|![](16/emblem-new.png)|![](10/emblem-new.png)|
 |**emblem-noread**|![](64/emblem-noread.png)|![](48/emblem-noread.png)|![](32/emblem-noread.png)|![](24/emblem-noread.png)|![](22/emblem-noread.png)|![](16/emblem-noread.png)|![](10/emblem-noread.png)|
 |**emblem-nowrite**|![](64/emblem-nowrite.png)|![](48/emblem-nowrite.png)|![](32/emblem-nowrite.png)|![](24/emblem-nowrite.png)|![](22/emblem-nowrite.png)|![](16/emblem-nowrite.png)|![](10/emblem-nowrite.png)|

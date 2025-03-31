@@ -4,6 +4,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
 |**bookmark-missing**|![](64/bookmark-missing.png)|![](48/bookmark-missing.png)|![](32/bookmark-missing.png)|![](24/bookmark-missing.png)|![](22/bookmark-missing.png)|![](16/bookmark-missing.png)|
+|**desktop_old**|![](64/desktop_old.png)|![](48/desktop_old.png)|![](32/desktop_old.png)|![](24/desktop_old.png)|![](22/desktop_old.png)|![](16/desktop_old.png)|
 |**folder**|![](64/folder.png)|![](48/folder.png)|![](32/folder.png)|![](24/folder.png)|![](22/folder.png)|![](16/folder.png)|
 |**folder-documents**|![](64/folder-documents.png)|![](48/folder-documents.png)|![](32/folder-documents.png)|![](24/folder-documents.png)|![](22/folder-documents.png)|![](16/folder-documents.png)|
 |**folder-documents-open**|![](64/folder-documents-open.png)|![](48/folder-documents-open.png)|![](32/folder-documents-open.png)|![](24/folder-documents-open.png)|![](22/folder-documents-open.png)|![](16/folder-documents-open.png)|
@@ -20,6 +21,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**folder-recent-open**|![](64/folder-recent-open.png)|![](48/folder-recent-open.png)|![](32/folder-recent-open.png)|![](24/folder-recent-open.png)|![](22/folder-recent-open.png)|![](16/folder-recent-open.png)|
 |**folder-remote**|![](64/folder-remote.png)|![](48/folder-remote.png)|![](32/folder-remote.png)|![](24/folder-remote.png)|![](22/folder-remote.png)|![](16/folder-remote.png)|
 |**folder-remote-open**|![](64/folder-remote-open.png)|![](48/folder-remote-open.png)|![](32/folder-remote-open.png)|![](24/folder-remote-open.png)|![](22/folder-remote-open.png)|![](16/folder-remote-open.png)|
+|**folder-saved-search**|![](64/folder-saved-search.png)|![](48/folder-saved-search.png)|![](32/folder-saved-search.png)|![](24/folder-saved-search.png)|![](22/folder-saved-search.png)|![](16/folder-saved-search.png)|
 |**folder-tag**|![](64/folder-tag.png)|![](48/folder-tag.png)|![](32/folder-tag.png)|![](24/folder-tag.png)|![](22/folder-tag.png)|![](16/folder-tag.png)|
 |**folder-templates**|![](64/folder-templates.png)|![](48/folder-templates.png)|![](32/folder-templates.png)|![](24/folder-templates.png)|![](22/folder-templates.png)|![](16/folder-templates.png)|
 |**folder-templates-open**|![](64/folder-templates-open.png)|![](48/folder-templates-open.png)|![](32/folder-templates-open.png)|![](24/folder-templates-open.png)|![](22/folder-templates-open.png)|![](16/folder-templates-open.png)|
@@ -57,6 +59,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**playlist-queue**|![](64/playlist-queue.png)|![](48/playlist-queue.png)|![](32/playlist-queue.png)|![](24/playlist-queue.png)|![](22/playlist-queue.png)|![](16/playlist-queue.png)|
 |**playlist-similar**|![](64/playlist-similar.png)|![](48/playlist-similar.png)|![](32/playlist-similar.png)|![](24/playlist-similar.png)|![](22/playlist-similar.png)|![](16/playlist-similar.png)|
 |**start-here**|![](64/start-here.png)|![](48/start-here.png)|![](32/start-here.png)|![](24/start-here.png)|![](22/start-here.png)|![](16/start-here.png)|
+|**start-here-full**|![](64/start-here-full.png)|![](48/start-here-full.png)|![](32/start-here-full.png)|![](24/start-here-full.png)|![](22/start-here-full.png)|![](16/start-here-full.png)|
 |**stock_sent-mail**|![](64/stock_sent-mail.png)|![](48/stock_sent-mail.png)|![](32/stock_sent-mail.png)|![](24/stock_sent-mail.png)|![](22/stock_sent-mail.png)|![](16/stock_sent-mail.png)|
 |**tag**|![](64/tag.png)|![](48/tag.png)|![](32/tag.png)|![](24/tag.png)|![](22/tag.png)|![](16/tag.png)|
 |**user-bookmarks**|![](64/user-bookmarks.png)|![](48/user-bookmarks.png)|![](32/user-bookmarks.png)|![](24/user-bookmarks.png)|![](22/user-bookmarks.png)|![](16/user-bookmarks.png)|

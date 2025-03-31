@@ -3,6 +3,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
+|**activities**|![](64/activities.png)|![](48/activities.png)|![](32/activities.png)|![](24/activities.png)|![](22/activities.png)|![](16/activities.png)|
 |**add-files-to-archive**|![](64/add-files-to-archive.png)|![](48/add-files-to-archive.png)|![](32/add-files-to-archive.png)|![](24/add-files-to-archive.png)|![](22/add-files-to-archive.png)|![](16/add-files-to-archive.png)|
 |**add-folder-to-archive**|![](64/add-folder-to-archive.png)|![](48/add-folder-to-archive.png)|![](32/add-folder-to-archive.png)|![](24/add-folder-to-archive.png)|![](22/add-folder-to-archive.png)|![](16/add-folder-to-archive.png)|
 |**address-book-insert**|![](64/address-book-insert.png)|![](48/address-book-insert.png)|![](32/address-book-insert.png)|![](24/address-book-insert.png)|![](22/address-book-insert.png)|![](16/address-book-insert.png)|
@@ -22,12 +23,15 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**blueman-send**|![](64/blueman-send.png)|![](48/blueman-send.png)|![](32/blueman-send.png)|![](24/blueman-send.png)|![](22/blueman-send.png)|![](16/blueman-send.png)|
 |**blueman-trust**|![](64/blueman-trust.png)|![](48/blueman-trust.png)|![](32/blueman-trust.png)|![](24/blueman-trust.png)|![](22/blueman-trust.png)|![](16/blueman-trust.png)|
 |**bookmark-new**|![](64/bookmark-new.png)|![](48/bookmark-new.png)|![](32/bookmark-new.png)|![](24/bookmark-new.png)|![](22/bookmark-new.png)|![](16/bookmark-new.png)|
+|**brightness**|![](64/brightness.png)|![](48/brightness.png)|![](32/brightness.png)|![](24/brightness.png)|![](22/brightness.png)|![](16/brightness.png)|
+|**brightness-high**|![](64/brightness-high.png)|![](48/brightness-high.png)|![](32/brightness-high.png)|![](24/brightness-high.png)|![](22/brightness-high.png)|![](16/brightness-high.png)|
 |**call-start**|![](64/call-start.png)|![](48/call-start.png)|![](32/call-start.png)|![](24/call-start.png)|![](22/call-start.png)|![](16/call-start.png)|
 |**call-stop**|![](64/call-stop.png)|![](48/call-stop.png)|![](32/call-stop.png)|![](24/call-stop.png)|![](22/call-stop.png)|![](16/call-stop.png)|
 |**color-picker**|![](64/color-picker.png)|![](48/color-picker.png)|![](32/color-picker.png)|![](24/color-picker.png)|![](22/color-picker.png)|![](16/color-picker.png)|
 |**color-select**|![](64/color-select.png)|![](48/color-select.png)|![](32/color-select.png)|![](24/color-select.png)|![](22/color-select.png)|![](16/color-select.png)|
 |**configure**|![](64/configure.png)|![](48/configure.png)|![](32/configure.png)|![](24/configure.png)|![](22/configure.png)|![](16/configure.png)|
 |**contact-new**|![](64/contact-new.png)|![](48/contact-new.png)|![](32/contact-new.png)|![](24/contact-new.png)|![](22/contact-new.png)|![](16/contact-new.png)|
+|**cursor**|![](64/cursor.png)|![](48/cursor.png)|![](32/cursor.png)|![](24/cursor.png)|![](22/cursor.png)|![](16/cursor.png)|
 |**dialog-cancel**|![](64/dialog-cancel.png)|![](48/dialog-cancel.png)|![](32/dialog-cancel.png)|![](24/dialog-cancel.png)|![](22/dialog-cancel.png)|![](16/dialog-cancel.png)|
 |**dialog-ok**|![](64/dialog-ok.png)|![](48/dialog-ok.png)|![](32/dialog-ok.png)|![](24/dialog-ok.png)|![](22/dialog-ok.png)|![](16/dialog-ok.png)|
 |**distribute-horizontal-left**|![](64/distribute-horizontal-left.png)|![](48/distribute-horizontal-left.png)|![](32/distribute-horizontal-left.png)|![](24/distribute-horizontal-left.png)|![](22/distribute-horizontal-left.png)|![](16/distribute-horizontal-left.png)|
@@ -50,6 +54,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**document-save-all**|![](64/document-save-all.png)|![](48/document-save-all.png)|![](32/document-save-all.png)|![](24/document-save-all.png)|![](22/document-save-all.png)|![](16/document-save-all.png)|
 |**document-save-as**|![](64/document-save-as.png)|![](48/document-save-as.png)|![](32/document-save-as.png)|![](24/document-save-as.png)|![](22/document-save-as.png)|![](16/document-save-as.png)|
 |**document-send**|![](64/document-send.png)|![](48/document-send.png)|![](32/document-send.png)|![](24/document-send.png)|![](22/document-send.png)|![](16/document-send.png)|
+|**documentinfo**|![](64/documentinfo.png)|![](48/documentinfo.png)|![](32/documentinfo.png)|![](24/documentinfo.png)|![](22/documentinfo.png)|![](16/documentinfo.png)|
 |**download**|![](64/download.png)|![](48/download.png)|![](32/download.png)|![](24/download.png)|![](22/download.png)|![](16/download.png)|
 |**draw-cuboid**|![](64/draw-cuboid.png)|![](48/draw-cuboid.png)|![](32/draw-cuboid.png)|![](24/draw-cuboid.png)|![](22/draw-cuboid.png)|![](16/draw-cuboid.png)|
 |**draw-elipse**|![](64/draw-elipse.png)|![](48/draw-elipse.png)|![](32/draw-elipse.png)|![](24/draw-elipse.png)|![](22/draw-elipse.png)|![](16/draw-elipse.png)|
@@ -69,6 +74,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**edit-flag**|![](64/edit-flag.png)|![](48/edit-flag.png)|![](32/edit-flag.png)|![](24/edit-flag.png)|![](22/edit-flag.png)|![](16/edit-flag.png)|
 |**edit-image**|![](64/edit-image.png)|![](48/edit-image.png)|![](32/edit-image.png)|![](24/edit-image.png)|![](22/edit-image.png)|![](16/edit-image.png)|
 |**edit-move**|![](64/edit-move.png)|![](48/edit-move.png)|![](32/edit-move.png)|![](24/edit-move.png)|![](22/edit-move.png)|![](16/edit-move.png)|
+|**edit-none**|![](64/edit-none.png)|![](48/edit-none.png)|![](32/edit-none.png)|![](24/edit-none.png)|![](22/edit-none.png)|![](16/edit-none.png)|
 |**edit-paste**|![](64/edit-paste.png)|![](48/edit-paste.png)|![](32/edit-paste.png)|![](24/edit-paste.png)|![](22/edit-paste.png)|![](16/edit-paste.png)|
 |**edit-redo**|![](64/edit-redo.png)|![](48/edit-redo.png)|![](32/edit-redo.png)|![](24/edit-redo.png)|![](22/edit-redo.png)|![](16/edit-redo.png)|
 |**edit-select**|![](64/edit-select.png)|![](48/edit-select.png)|![](32/edit-select.png)|![](24/edit-select.png)|![](22/edit-select.png)|![](16/edit-select.png)|
@@ -89,6 +95,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**format-justify-fill**|![](64/format-justify-fill.png)|![](48/format-justify-fill.png)|![](32/format-justify-fill.png)|![](24/format-justify-fill.png)|![](22/format-justify-fill.png)|![](16/format-justify-fill.png)|
 |**format-justify-left**|![](64/format-justify-left.png)|![](48/format-justify-left.png)|![](32/format-justify-left.png)|![](24/format-justify-left.png)|![](22/format-justify-left.png)|![](16/format-justify-left.png)|
 |**format-justify-right**|![](64/format-justify-right.png)|![](48/format-justify-right.png)|![](32/format-justify-right.png)|![](24/format-justify-right.png)|![](22/format-justify-right.png)|![](16/format-justify-right.png)|
+|**format-number-percent**|![](64/format-number-percent.png)|![](48/format-number-percent.png)|![](32/format-number-percent.png)|![](24/format-number-percent.png)|![](22/format-number-percent.png)|![](16/format-number-percent.png)|
 |**format-text-bold**|![](64/format-text-bold.png)|![](48/format-text-bold.png)|![](32/format-text-bold.png)|![](24/format-text-bold.png)|![](22/format-text-bold.png)|![](16/format-text-bold.png)|
 |**format-text-clear-formatting**|![](64/format-text-clear-formatting.png)|![](48/format-text-clear-formatting.png)|![](32/format-text-clear-formatting.png)|![](24/format-text-clear-formatting.png)|![](22/format-text-clear-formatting.png)|![](16/format-text-clear-formatting.png)|
 |**format-text-direction-ltr**|![](64/format-text-direction-ltr.png)|![](48/format-text-direction-ltr.png)|![](32/format-text-direction-ltr.png)|![](24/format-text-direction-ltr.png)|![](22/format-text-direction-ltr.png)|![](16/format-text-direction-ltr.png)|
@@ -119,7 +126,10 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gtk-revert-to-saved-ltr**|![](64/gtk-revert-to-saved-ltr.png)|![](48/gtk-revert-to-saved-ltr.png)|![](32/gtk-revert-to-saved-ltr.png)|![](24/gtk-revert-to-saved-ltr.png)|![](22/gtk-revert-to-saved-ltr.png)|![](16/gtk-revert-to-saved-ltr.png)|
 |**gtk-spell-check**|![](64/gtk-spell-check.png)|![](48/gtk-spell-check.png)|![](32/gtk-spell-check.png)|![](24/gtk-spell-check.png)|![](22/gtk-spell-check.png)|![](16/gtk-spell-check.png)|
 |**gtk-zoom-out**|![](64/gtk-zoom-out.png)|![](48/gtk-zoom-out.png)|![](32/gtk-zoom-out.png)|![](24/gtk-zoom-out.png)|![](22/gtk-zoom-out.png)|![](16/gtk-zoom-out.png)|
+|**handle-sort**|![](64/handle-sort.png)|![](48/handle-sort.png)|![](32/handle-sort.png)|![](24/handle-sort.png)|![](22/handle-sort.png)|![](16/handle-sort.png)|
+|**help**|![](64/help.png)|![](48/help.png)|![](32/help.png)|![](24/help.png)|![](22/help.png)|![](16/help.png)|
 |**help-about**|![](64/help-about.png)|![](48/help-about.png)|![](32/help-about.png)|![](24/help-about.png)|![](22/help-about.png)|![](16/help-about.png)|
+|**help-contents**|![](64/help-contents.png)|![](48/help-contents.png)|![](32/help-contents.png)|![](24/help-contents.png)|![](22/help-contents.png)|![](16/help-contents.png)|
 |**help-faq**|![](64/help-faq.png)|![](48/help-faq.png)|![](32/help-faq.png)|![](24/help-faq.png)|![](22/help-faq.png)|![](16/help-faq.png)|
 |**im-message-new**|![](64/im-message-new.png)|![](48/im-message-new.png)|![](32/im-message-new.png)|![](24/im-message-new.png)|![](22/im-message-new.png)|![](16/im-message-new.png)|
 |**image-adjust**|![](64/image-adjust.png)|![](48/image-adjust.png)|![](32/image-adjust.png)|![](24/image-adjust.png)|![](22/image-adjust.png)|![](16/image-adjust.png)|
@@ -237,6 +247,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pane-hide**|![](64/pane-hide.png)|![](48/pane-hide.png)|![](32/pane-hide.png)|![](24/pane-hide.png)|![](22/pane-hide.png)|![](16/pane-hide.png)|
 |**pane-show**|![](64/pane-show.png)|![](48/pane-show.png)|![](32/pane-show.png)|![](24/pane-show.png)|![](22/pane-show.png)|![](16/pane-show.png)|
 |**podcast-new**|![](64/podcast-new.png)|![](48/podcast-new.png)|![](32/podcast-new.png)|![](24/podcast-new.png)|![](22/podcast-new.png)|![](16/podcast-new.png)|
+|**question**|![](64/question.png)|![](48/question.png)|![](32/question.png)|![](24/question.png)|![](22/question.png)|![](16/question.png)|
 |**segment-curve**|![](64/segment-curve.png)|![](48/segment-curve.png)|![](32/segment-curve.png)|![](24/segment-curve.png)|![](22/segment-curve.png)|![](16/segment-curve.png)|
 |**segment-line**|![](64/segment-line.png)|![](48/segment-line.png)|![](32/segment-line.png)|![](24/segment-line.png)|![](22/segment-line.png)|![](16/segment-line.png)|
 |**selection-break**|![](64/selection-break.png)|![](48/selection-break.png)|![](32/selection-break.png)|![](24/selection-break.png)|![](22/selection-break.png)|![](16/selection-break.png)|
@@ -246,6 +257,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**selection-union**|![](64/selection-union.png)|![](48/selection-union.png)|![](32/selection-union.png)|![](24/selection-union.png)|![](22/selection-union.png)|![](16/selection-union.png)|
 |**share**|![](64/share.png)|![](48/share.png)|![](32/share.png)|![](24/share.png)|![](22/share.png)|![](16/share.png)|
 |**sleep**|![](64/sleep.png)|![](48/sleep.png)|![](32/sleep.png)|![](24/sleep.png)|![](22/sleep.png)|![](16/sleep.png)|
+|**speedometer**|![](64/speedometer.png)|![](48/speedometer.png)|![](32/speedometer.png)|![](24/speedometer.png)|![](22/speedometer.png)|![](16/speedometer.png)|
 |**stock_bookmark**|![](64/stock_bookmark.png)|![](48/stock_bookmark.png)|![](32/stock_bookmark.png)|![](24/stock_bookmark.png)|![](22/stock_bookmark.png)|![](16/stock_bookmark.png)|
 |**stock_edit**|![](64/stock_edit.png)|![](48/stock_edit.png)|![](32/stock_edit.png)|![](24/stock_edit.png)|![](22/stock_edit.png)|![](16/stock_edit.png)|
 |**stock_exit**|![](64/stock_exit.png)|![](48/stock_exit.png)|![](32/stock_exit.png)|![](24/stock_exit.png)|![](22/stock_exit.png)|![](16/stock_exit.png)|
@@ -271,6 +283,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**system-reboot**|![](64/system-reboot.png)|![](48/system-reboot.png)|![](32/system-reboot.png)|![](24/system-reboot.png)|![](22/system-reboot.png)|![](16/system-reboot.png)|
 |**system-restart-copy**|![](64/system-restart-copy.png)|![](48/system-restart-copy.png)|![](32/system-restart-copy.png)|![](24/system-restart-copy.png)|![](22/system-restart-copy.png)|![](16/system-restart-copy.png)|
 |**system-run**|![](64/system-run.png)|![](48/system-run.png)|![](32/system-run.png)|![](24/system-run.png)|![](22/system-run.png)|![](16/system-run.png)|
+|**system-search**|![](64/system-search.png)|![](48/system-search.png)|![](32/system-search.png)|![](24/system-search.png)|![](22/system-search.png)|![](16/system-search.png)|
 |**system-shutdown**|![](64/system-shutdown.png)|![](48/system-shutdown.png)|![](32/system-shutdown.png)|![](24/system-shutdown.png)|![](22/system-shutdown.png)|![](16/system-shutdown.png)|
 |**system-shutdown-restart-panel**|![](64/system-shutdown-restart-panel.png)|![](48/system-shutdown-restart-panel.png)|![](32/system-shutdown-restart-panel.png)|![](24/system-shutdown-restart-panel.png)|![](22/system-shutdown-restart-panel.png)|![](16/system-shutdown-restart-panel.png)|
 |**system-upgrade**|![](64/system-upgrade.png)|![](48/system-upgrade.png)|![](32/system-upgrade.png)|![](24/system-upgrade.png)|![](22/system-upgrade.png)|![](16/system-upgrade.png)|
@@ -284,11 +297,14 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**tools-check-spelling**|![](64/tools-check-spelling.png)|![](48/tools-check-spelling.png)|![](32/tools-check-spelling.png)|![](24/tools-check-spelling.png)|![](22/tools-check-spelling.png)|![](16/tools-check-spelling.png)|
 |**transform-rotate**|![](64/transform-rotate.png)|![](48/transform-rotate.png)|![](32/transform-rotate.png)|![](24/transform-rotate.png)|![](22/transform-rotate.png)|![](16/transform-rotate.png)|
 |**view-column**|![](64/view-column.png)|![](48/view-column.png)|![](32/view-column.png)|![](24/view-column.png)|![](22/view-column.png)|![](16/view-column.png)|
+|**view-column.png**|![](64/view-column.png.png)|![](48/view-column.png.png)|![](32/view-column.png.png)|![](24/view-column.png.png)|![](22/view-column.png.png)|![](16/view-column.png.png)|
 |**view-continuous**|![](64/view-continuous.png)|![](48/view-continuous.png)|![](32/view-continuous.png)|![](24/view-continuous.png)|![](22/view-continuous.png)|![](16/view-continuous.png)|
 |**view-coverflow**|![](64/view-coverflow.png)|![](48/view-coverflow.png)|![](32/view-coverflow.png)|![](24/view-coverflow.png)|![](22/view-coverflow.png)|![](16/view-coverflow.png)|
 |**view-dual**|![](64/view-dual.png)|![](48/view-dual.png)|![](32/view-dual.png)|![](24/view-dual.png)|![](22/view-dual.png)|![](16/view-dual.png)|
 |**view-filter**|![](64/view-filter.png)|![](48/view-filter.png)|![](32/view-filter.png)|![](24/view-filter.png)|![](22/view-filter.png)|![](16/view-filter.png)|
 |**view-fullscreen**|![](64/view-fullscreen.png)|![](48/view-fullscreen.png)|![](32/view-fullscreen.png)|![](24/view-fullscreen.png)|![](22/view-fullscreen.png)|![](16/view-fullscreen.png)|
+|**view-hidden**|![](64/view-hidden.png)|![](48/view-hidden.png)|![](32/view-hidden.png)|![](24/view-hidden.png)|![](22/view-hidden.png)|![](16/view-hidden.png)|
+|**view-history**|![](64/view-history.png)|![](48/view-history.png)|![](32/view-history.png)|![](24/view-history.png)|![](22/view-history.png)|![](16/view-history.png)|
 |**view-list**|![](64/view-list.png)|![](48/view-list.png)|![](32/view-list.png)|![](24/view-list.png)|![](22/view-list.png)|![](16/view-list.png)|
 |**view-list-details**|![](64/view-list-details.png)|![](48/view-list-details.png)|![](32/view-list-details.png)|![](24/view-list-details.png)|![](22/view-list-details.png)|![](16/view-list-details.png)|
 |**view-list-icons**|![](64/view-list-icons.png)|![](48/view-list-icons.png)|![](32/view-list-icons.png)|![](24/view-list-icons.png)|![](22/view-list-icons.png)|![](16/view-list-icons.png)|
@@ -304,13 +320,18 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**view-sort-ascending**|![](64/view-sort-ascending.png)|![](48/view-sort-ascending.png)|![](32/view-sort-ascending.png)|![](24/view-sort-ascending.png)|![](22/view-sort-ascending.png)|![](16/view-sort-ascending.png)|
 |**view-sort-descending**|![](64/view-sort-descending.png)|![](48/view-sort-descending.png)|![](32/view-sort-descending.png)|![](24/view-sort-descending.png)|![](22/view-sort-descending.png)|![](16/view-sort-descending.png)|
 |**view-split-top-bottom**|![](64/view-split-top-bottom.png)|![](48/view-split-top-bottom.png)|![](32/view-split-top-bottom.png)|![](24/view-split-top-bottom.png)|![](22/view-split-top-bottom.png)|![](16/view-split-top-bottom.png)|
+|**view-visible**|![](64/view-visible.png)|![](48/view-visible.png)|![](32/view-visible.png)|![](24/view-visible.png)|![](22/view-visible.png)|![](16/view-visible.png)|
 |**view-window-new**|![](64/view-window-new.png)|![](48/view-window-new.png)|![](32/view-window-new.png)|![](24/view-window-new.png)|![](22/view-window-new.png)|![](16/view-window-new.png)|
 |**view-wrapped-symbolic**|![](64/view-wrapped-symbolic.png)|![](48/view-wrapped-symbolic.png)|![](32/view-wrapped-symbolic.png)|![](24/view-wrapped-symbolic.png)|![](22/view-wrapped-symbolic.png)|![](16/view-wrapped-symbolic.png)|
+|**viewlog**|![](64/viewlog.png)|![](48/viewlog.png)|![](32/viewlog.png)|![](24/viewlog.png)|![](22/viewlog.png)|![](16/viewlog.png)|
 |**viewmag1**|![](64/viewmag1.png)|![](48/viewmag1.png)|![](32/viewmag1.png)|![](24/viewmag1.png)|![](22/viewmag1.png)|![](16/viewmag1.png)|
 |**viewmagfit**|![](64/viewmagfit.png)|![](48/viewmagfit.png)|![](32/viewmagfit.png)|![](24/viewmagfit.png)|![](22/viewmagfit.png)|![](16/viewmagfit.png)|
+|**virtual-dekstops**|![](64/virtual-dekstops.png)|![](48/virtual-dekstops.png)|![](32/virtual-dekstops.png)|![](24/virtual-dekstops.png)|![](22/virtual-dekstops.png)|![](16/virtual-dekstops.png)|
+|**virtual-desktops**|![](64/virtual-desktops.png)|![](48/virtual-desktops.png)|![](32/virtual-desktops.png)|![](24/virtual-desktops.png)|![](22/virtual-desktops.png)|![](16/virtual-desktops.png)|
 |**visualization**|![](64/visualization.png)|![](48/visualization.png)|![](32/visualization.png)|![](24/visualization.png)|![](22/visualization.png)|![](16/visualization.png)|
 |**vmware-disabled**|![](64/vmware-disabled.png)|![](48/vmware-disabled.png)|![](32/vmware-disabled.png)|![](24/vmware-disabled.png)|![](22/vmware-disabled.png)|![](16/vmware-disabled.png)|
 |**window-close**|![](64/window-close.png)|![](48/window-close.png)|![](32/window-close.png)|![](24/window-close.png)|![](22/window-close.png)|![](16/window-close.png)|
+|**window-duplicate**|![](64/window-duplicate.png)|![](48/window-duplicate.png)|![](32/window-duplicate.png)|![](24/window-duplicate.png)|![](22/window-duplicate.png)|![](16/window-duplicate.png)|
 |**window-maximize**|![](64/window-maximize.png)|![](48/window-maximize.png)|![](32/window-maximize.png)|![](24/window-maximize.png)|![](22/window-maximize.png)|![](16/window-maximize.png)|
 |**window-minimize**|![](64/window-minimize.png)|![](48/window-minimize.png)|![](32/window-minimize.png)|![](24/window-minimize.png)|![](22/window-minimize.png)|![](16/window-minimize.png)|
 |**window-pin**|![](64/window-pin.png)|![](48/window-pin.png)|![](32/window-pin.png)|![](24/window-pin.png)|![](22/window-pin.png)|![](16/window-pin.png)|

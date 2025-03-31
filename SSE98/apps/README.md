@@ -38,6 +38,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**appfinder**|![](64/appfinder.png)|![](48/appfinder.png)|![](32/appfinder.png)|![](24/appfinder.png)|![](22/appfinder.png)|![](16/appfinder.png)|
 |**applets-screenshooter**|![](64/applets-screenshooter.png)|![](48/applets-screenshooter.png)|![](32/applets-screenshooter.png)|![](24/applets-screenshooter.png)|![](22/applets-screenshooter.png)|![](16/applets-screenshooter.png)|
 |**application-community**|![](64/application-community.png)|![](48/application-community.png)|![](32/application-community.png)|![](24/application-community.png)|![](22/application-community.png)|![](16/application-community.png)|
+|**application-default-icon**|![](64/application-default-icon.png)|![](48/application-default-icon.png)|![](32/application-default-icon.png)|![](24/application-default-icon.png)|![](22/application-default-icon.png)|![](16/application-default-icon.png)|
 |**appointment**|![](64/appointment.png)|![](48/appointment.png)|![](32/appointment.png)|![](24/appointment.png)|![](22/appointment.png)|![](16/appointment.png)|
 |**apport**|![](64/apport.png)|![](48/apport.png)|![](32/apport.png)|![](24/apport.png)|![](22/apport.png)|![](16/apport.png)|
 |**aptoncd**|![](64/aptoncd.png)|![](48/aptoncd.png)|![](32/aptoncd.png)|![](24/aptoncd.png)|![](22/aptoncd.png)|![](16/aptoncd.png)|
@@ -60,6 +61,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**c610**|![](64/c610.png)|![](48/c610.png)|![](32/c610.png)|![](24/c610.png)|![](22/c610.png)|![](16/c610.png)|
 |**c64**|![](64/c64.png)|![](48/c64.png)|![](32/c64.png)|![](24/c64.png)|![](22/c64.png)|![](16/c64.png)|
 |**caffeine**|![](64/caffeine.png)|![](48/caffeine.png)|![](32/caffeine.png)|![](24/caffeine.png)|![](22/caffeine.png)|![](16/caffeine.png)|
+|**calligrawords**|![](64/calligrawords.png)|![](48/calligrawords.png)|![](32/calligrawords.png)|![](24/calligrawords.png)|![](22/calligrawords.png)|![](16/calligrawords.png)|
 |**ccc_large**|![](64/ccc_large.png)|![](48/ccc_large.png)|![](32/ccc_large.png)|![](24/ccc_large.png)|![](22/ccc_large.png)|![](16/ccc_large.png)|
 |**ccsm**|![](64/ccsm.png)|![](48/ccsm.png)|![](32/ccsm.png)|![](24/ccsm.png)|![](22/ccsm.png)|![](16/ccsm.png)|
 |**checkbox**|![](64/checkbox.png)|![](48/checkbox.png)|![](32/checkbox.png)|![](24/checkbox.png)|![](22/checkbox.png)|![](16/checkbox.png)|
@@ -72,6 +74,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**clipman**|![](64/clipman.png)|![](48/clipman.png)|![](32/clipman.png)|![](24/clipman.png)|![](22/clipman.png)|![](16/clipman.png)|
 |**clock**|![](64/clock.png)|![](48/clock.png)|![](32/clock.png)|![](24/clock.png)|![](22/clock.png)|![](16/clock.png)|
 |**codeblocks**|![](64/codeblocks.png)|![](48/codeblocks.png)|![](32/codeblocks.png)|![](24/codeblocks.png)|![](22/codeblocks.png)|![](16/codeblocks.png)|
+|**com.discordapp.Discord**|![](64/com.discordapp.Discord.png)|![](48/com.discordapp.Discord.png)|![](32/com.discordapp.Discord.png)|![](24/com.discordapp.Discord.png)|![](22/com.discordapp.Discord.png)|![](16/com.discordapp.Discord.png)|
 |**com.visualstudio.code**|![](64/com.visualstudio.code.png)|![](48/com.visualstudio.code.png)|![](32/com.visualstudio.code.png)|![](24/com.visualstudio.code.png)|![](22/com.visualstudio.code.png)|![](16/com.visualstudio.code.png)|
 |**comix**|![](64/comix.png)|![](48/comix.png)|![](32/comix.png)|![](24/comix.png)|![](22/comix.png)|![](16/comix.png)|
 |**config-date**|![](64/config-date.png)|![](48/config-date.png)|![](32/config-date.png)|![](24/config-date.png)|![](22/config-date.png)|![](16/config-date.png)|
@@ -97,6 +100,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**eagle**|![](64/eagle.png)|![](48/eagle.png)|![](32/eagle.png)|![](24/eagle.png)|![](22/eagle.png)|![](16/eagle.png)|
 |**easytag**|![](64/easytag.png)|![](48/easytag.png)|![](32/easytag.png)|![](24/easytag.png)|![](22/easytag.png)|![](16/easytag.png)|
 |**eclipse**|![](64/eclipse.png)|![](48/eclipse.png)|![](32/eclipse.png)|![](24/eclipse.png)|![](22/eclipse.png)|![](16/eclipse.png)|
+|**eject_pc_cool_6_48x48x4**|![](64/eject_pc_cool_6_48x48x4.png)|![](48/eject_pc_cool_6_48x48x4.png)|![](32/eject_pc_cool_6_48x48x4.png)|![](24/eject_pc_cool_6_48x48x4.png)|![](22/eject_pc_cool_6_48x48x4.png)|![](16/eject_pc_cool_6_48x48x4.png)|
 |**ejecter**|![](64/ejecter.png)|![](48/ejecter.png)|![](32/ejecter.png)|![](24/ejecter.png)|![](22/ejecter.png)|![](16/ejecter.png)|
 |**ekiga**|![](64/ekiga.png)|![](48/ekiga.png)|![](32/ekiga.png)|![](24/ekiga.png)|![](22/ekiga.png)|![](16/ekiga.png)|
 |**emacs**|![](64/emacs.png)|![](48/emacs.png)|![](32/emacs.png)|![](24/emacs.png)|![](22/emacs.png)|![](16/emacs.png)|
@@ -165,6 +169,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-inhibit-applet**|![](64/gnome-inhibit-applet.png)|![](48/gnome-inhibit-applet.png)|![](32/gnome-inhibit-applet.png)|![](24/gnome-inhibit-applet.png)|![](22/gnome-inhibit-applet.png)|![](16/gnome-inhibit-applet.png)|
 |**gnome-klotski**|![](64/gnome-klotski.png)|![](48/gnome-klotski.png)|![](32/gnome-klotski.png)|![](24/gnome-klotski.png)|![](22/gnome-klotski.png)|![](16/gnome-klotski.png)|
 |**gnome-lightsoff**|![](64/gnome-lightsoff.png)|![](48/gnome-lightsoff.png)|![](32/gnome-lightsoff.png)|![](24/gnome-lightsoff.png)|![](22/gnome-lightsoff.png)|![](16/gnome-lightsoff.png)|
+|**gnome-logout**|![](64/gnome-logout.png)|![](48/gnome-logout.png)|![](32/gnome-logout.png)|![](24/gnome-logout.png)|![](22/gnome-logout.png)|![](16/gnome-logout.png)|
 |**gnome-mahjongg**|![](64/gnome-mahjongg.png)|![](48/gnome-mahjongg.png)|![](32/gnome-mahjongg.png)|![](24/gnome-mahjongg.png)|![](22/gnome-mahjongg.png)|![](16/gnome-mahjongg.png)|
 |**gnome-mplayer**|![](64/gnome-mplayer.png)|![](48/gnome-mplayer.png)|![](32/gnome-mplayer.png)|![](24/gnome-mplayer.png)|![](22/gnome-mplayer.png)|![](16/gnome-mplayer.png)|
 |**gnome-nettool**|![](64/gnome-nettool.png)|![](48/gnome-nettool.png)|![](32/gnome-nettool.png)|![](24/gnome-nettool.png)|![](22/gnome-nettool.png)|![](16/gnome-nettool.png)|
@@ -179,6 +184,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-session-halt**|![](64/gnome-session-halt.png)|![](48/gnome-session-halt.png)|![](32/gnome-session-halt.png)|![](24/gnome-session-halt.png)|![](22/gnome-session-halt.png)|![](16/gnome-session-halt.png)|
 |**gnome-session-hebirnate**|![](64/gnome-session-hebirnate.png)|![](48/gnome-session-hebirnate.png)|![](32/gnome-session-hebirnate.png)|![](24/gnome-session-hebirnate.png)|![](22/gnome-session-hebirnate.png)|![](16/gnome-session-hebirnate.png)|
 |**gnome-session-hibernate**|![](64/gnome-session-hibernate.png)|![](48/gnome-session-hibernate.png)|![](32/gnome-session-hibernate.png)|![](24/gnome-session-hibernate.png)|![](22/gnome-session-hibernate.png)|![](16/gnome-session-hibernate.png)|
+|**gnome-session-reboot**|![](64/gnome-session-reboot.png)|![](48/gnome-session-reboot.png)|![](32/gnome-session-reboot.png)|![](24/gnome-session-reboot.png)|![](22/gnome-session-reboot.png)|![](16/gnome-session-reboot.png)|
 |**gnome-session-sleep**|![](64/gnome-session-sleep.png)|![](48/gnome-session-sleep.png)|![](32/gnome-session-sleep.png)|![](24/gnome-session-sleep.png)|![](22/gnome-session-sleep.png)|![](16/gnome-session-sleep.png)|
 |**gnome-session-suspend**|![](64/gnome-session-suspend.png)|![](48/gnome-session-suspend.png)|![](32/gnome-session-suspend.png)|![](24/gnome-session-suspend.png)|![](22/gnome-session-suspend.png)|![](16/gnome-session-suspend.png)|
 |**gnome-session-switch**|![](64/gnome-session-switch.png)|![](48/gnome-session-switch.png)|![](32/gnome-session-switch.png)|![](24/gnome-session-switch.png)|![](22/gnome-session-switch.png)|![](16/gnome-session-switch.png)|
@@ -187,6 +193,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-settings-background**|![](64/gnome-settings-background.png)|![](48/gnome-settings-background.png)|![](32/gnome-settings-background.png)|![](24/gnome-settings-background.png)|![](22/gnome-settings-background.png)|![](16/gnome-settings-background.png)|
 |**gnome-settings-keybindings**|![](64/gnome-settings-keybindings.png)|![](48/gnome-settings-keybindings.png)|![](32/gnome-settings-keybindings.png)|![](24/gnome-settings-keybindings.png)|![](22/gnome-settings-keybindings.png)|![](16/gnome-settings-keybindings.png)|
 |**gnome-settings-theme**|![](64/gnome-settings-theme.png)|![](48/gnome-settings-theme.png)|![](32/gnome-settings-theme.png)|![](24/gnome-settings-theme.png)|![](22/gnome-settings-theme.png)|![](16/gnome-settings-theme.png)|
+|**gnome-shutdown**|![](64/gnome-shutdown.png)|![](48/gnome-shutdown.png)|![](32/gnome-shutdown.png)|![](24/gnome-shutdown.png)|![](22/gnome-shutdown.png)|![](16/gnome-shutdown.png)|
 |**gnome-sudoku**|![](64/gnome-sudoku.png)|![](48/gnome-sudoku.png)|![](32/gnome-sudoku.png)|![](24/gnome-sudoku.png)|![](22/gnome-sudoku.png)|![](16/gnome-sudoku.png)|
 |**gnome-swell-foop**|![](64/gnome-swell-foop.png)|![](48/gnome-swell-foop.png)|![](32/gnome-swell-foop.png)|![](24/gnome-swell-foop.png)|![](22/gnome-swell-foop.png)|![](16/gnome-swell-foop.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
@@ -249,6 +256,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**kadu**|![](64/kadu.png)|![](48/kadu.png)|![](32/kadu.png)|![](24/kadu.png)|![](22/kadu.png)|![](16/kadu.png)|
 |**kcharselect**|![](64/kcharselect.png)|![](48/kcharselect.png)|![](32/kcharselect.png)|![](24/kcharselect.png)|![](22/kcharselect.png)|![](16/kcharselect.png)|
 |**kcmkwm**|![](64/kcmkwm.png)|![](48/kcmkwm.png)|![](32/kcmkwm.png)|![](24/kcmkwm.png)|![](22/kcmkwm.png)|![](16/kcmkwm.png)|
+|**kdevelop**|![](64/kdevelop.png)|![](48/kdevelop.png)|![](32/kdevelop.png)|![](24/kdevelop.png)|![](22/kdevelop.png)|![](16/kdevelop.png)|
 |**keepassx**|![](64/keepassx.png)|![](48/keepassx.png)|![](32/keepassx.png)|![](24/keepassx.png)|![](22/keepassx.png)|![](16/keepassx.png)|
 |**key_bindings**|![](64/key_bindings.png)|![](48/key_bindings.png)|![](32/key_bindings.png)|![](24/key_bindings.png)|![](22/key_bindings.png)|![](16/key_bindings.png)|
 |**keyring-manager**|![](64/keyring-manager.png)|![](48/keyring-manager.png)|![](32/keyring-manager.png)|![](24/keyring-manager.png)|![](22/keyring-manager.png)|![](16/keyring-manager.png)|
@@ -258,6 +266,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**ksysguard**|![](64/ksysguard.png)|![](48/ksysguard.png)|![](32/ksysguard.png)|![](24/ksysguard.png)|![](22/ksysguard.png)|![](16/ksysguard.png)|
 |**kupfer**|![](64/kupfer.png)|![](48/kupfer.png)|![](32/kupfer.png)|![](24/kupfer.png)|![](22/kupfer.png)|![](16/kupfer.png)|
 |**kuser**|![](64/kuser.png)|![](48/kuser.png)|![](32/kuser.png)|![](24/kuser.png)|![](22/kuser.png)|![](16/kuser.png)|
+|**kwalletmanager**|![](64/kwalletmanager.png)|![](48/kwalletmanager.png)|![](32/kwalletmanager.png)|![](24/kwalletmanager.png)|![](22/kwalletmanager.png)|![](16/kwalletmanager.png)|
 |**lastfm**|![](64/lastfm.png)|![](48/lastfm.png)|![](32/lastfm.png)|![](24/lastfm.png)|![](22/lastfm.png)|![](16/lastfm.png)|
 |**library-internet-radio**|![](64/library-internet-radio.png)|![](48/library-internet-radio.png)|![](32/library-internet-radio.png)|![](24/library-internet-radio.png)|![](22/library-internet-radio.png)|![](16/library-internet-radio.png)|
 |**libreoffice-base**|![](64/libreoffice-base.png)|![](48/libreoffice-base.png)|![](32/libreoffice-base.png)|![](24/libreoffice-base.png)|![](22/libreoffice-base.png)|![](16/libreoffice-base.png)|
@@ -269,11 +278,13 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**lifeograph**|![](64/lifeograph.png)|![](48/lifeograph.png)|![](32/lifeograph.png)|![](24/lifeograph.png)|![](22/lifeograph.png)|![](16/lifeograph.png)|
 |**liferea**|![](64/liferea.png)|![](48/liferea.png)|![](32/liferea.png)|![](24/liferea.png)|![](22/liferea.png)|![](16/liferea.png)|
 |**linkerator**|![](64/linkerator.png)|![](48/linkerator.png)|![](32/linkerator.png)|![](24/linkerator.png)|![](22/linkerator.png)|![](16/linkerator.png)|
+|**locale_48x48**|![](64/locale_48x48.png)|![](48/locale_48x48.png)|![](32/locale_48x48.png)|![](24/locale_48x48.png)|![](22/locale_48x48.png)|![](16/locale_48x48.png)|
 |**logviewer**|![](64/logviewer.png)|![](48/logviewer.png)|![](32/logviewer.png)|![](24/logviewer.png)|![](22/logviewer.png)|![](16/logviewer.png)|
 |**love**|![](64/love.png)|![](48/love.png)|![](32/love.png)|![](24/love.png)|![](22/love.png)|![](16/love.png)|
 |**lpi-bug**|![](64/lpi-bug.png)|![](48/lpi-bug.png)|![](32/lpi-bug.png)|![](24/lpi-bug.png)|![](22/lpi-bug.png)|![](16/lpi-bug.png)|
 |**lugaru-hd**|![](64/lugaru-hd.png)|![](48/lugaru-hd.png)|![](32/lugaru-hd.png)|![](24/lugaru-hd.png)|![](22/lugaru-hd.png)|![](16/lugaru-hd.png)|
 |**lv_icon**|![](64/lv_icon.png)|![](48/lv_icon.png)|![](32/lv_icon.png)|![](24/lv_icon.png)|![](22/lv_icon.png)|![](16/lv_icon.png)|
+|**lxfind_48**|![](64/lxfind_48.png)|![](48/lxfind_48.png)|![](32/lxfind_48.png)|![](24/lxfind_48.png)|![](22/lxfind_48.png)|![](16/lxfind_48.png)|
 |**machinarium**|![](64/machinarium.png)|![](48/machinarium.png)|![](32/machinarium.png)|![](24/machinarium.png)|![](22/machinarium.png)|![](16/machinarium.png)|
 |**magnatune**|![](64/magnatune.png)|![](48/magnatune.png)|![](32/magnatune.png)|![](24/magnatune.png)|![](22/magnatune.png)|![](16/magnatune.png)|
 |**mahjong**|![](64/mahjong.png)|![](48/mahjong.png)|![](32/mahjong.png)|![](24/mahjong.png)|![](22/mahjong.png)|![](16/mahjong.png)|
@@ -349,6 +360,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pet**|![](64/pet.png)|![](48/pet.png)|![](32/pet.png)|![](24/pet.png)|![](22/pet.png)|![](16/pet.png)|
 |**phatch**|![](64/phatch.png)|![](48/phatch.png)|![](32/phatch.png)|![](24/phatch.png)|![](22/phatch.png)|![](16/phatch.png)|
 |**phatch-inspector**|![](64/phatch-inspector.png)|![](48/phatch-inspector.png)|![](32/phatch-inspector.png)|![](24/phatch-inspector.png)|![](22/phatch-inspector.png)|![](16/phatch-inspector.png)|
+|**phone**|![](64/phone.png)|![](48/phone.png)|![](32/phone.png)|![](24/phone.png)|![](22/phone.png)|![](16/phone.png)|
 |**picasa**|![](64/picasa.png)|![](48/picasa.png)|![](32/picasa.png)|![](24/picasa.png)|![](22/picasa.png)|![](16/picasa.png)|
 |**picasa-fontcfg**|![](64/picasa-fontcfg.png)|![](48/picasa-fontcfg.png)|![](32/picasa-fontcfg.png)|![](24/picasa-fontcfg.png)|![](22/picasa-fontcfg.png)|![](16/picasa-fontcfg.png)|
 |**pidgin**|![](64/pidgin.png)|![](48/pidgin.png)|![](32/pidgin.png)|![](24/pidgin.png)|![](22/pidgin.png)|![](16/pidgin.png)|
@@ -371,9 +383,10 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**poedit**|![](64/poedit.png)|![](48/poedit.png)|![](32/poedit.png)|![](24/poedit.png)|![](22/poedit.png)|![](16/poedit.png)|
 |**postscript-viewer**|![](64/postscript-viewer.png)|![](48/postscript-viewer.png)|![](32/postscript-viewer.png)|![](24/postscript-viewer.png)|![](22/postscript-viewer.png)|![](16/postscript-viewer.png)|
 |**ppa**|![](64/ppa.png)|![](48/ppa.png)|![](32/ppa.png)|![](24/ppa.png)|![](22/ppa.png)|![](16/ppa.png)|
-|**preferences-color**|![](64/preferences-color.png)|![](48/preferences-color.png)|![](32/preferences-color.png)|![](24/preferences-color.png)|![](22/preferences-color.png)|![](16/preferences-color.png)|
 |**preferences-desktop**|![](64/preferences-desktop.png)|![](48/preferences-desktop.png)|![](32/preferences-desktop.png)|![](24/preferences-desktop.png)|![](22/preferences-desktop.png)|![](16/preferences-desktop.png)|
+|**preferences-desktop-accesibility**|![](64/preferences-desktop-accesibility.png)|![](48/preferences-desktop-accesibility.png)|![](32/preferences-desktop-accesibility.png)|![](24/preferences-desktop-accesibility.png)|![](22/preferences-desktop-accesibility.png)|![](16/preferences-desktop-accesibility.png)|
 |**preferences-desktop-accessibility**|![](64/preferences-desktop-accessibility.png)|![](48/preferences-desktop-accessibility.png)|![](32/preferences-desktop-accessibility.png)|![](24/preferences-desktop-accessibility.png)|![](22/preferences-desktop-accessibility.png)|![](16/preferences-desktop-accessibility.png)|
+|**preferences-desktop-cursors**|![](64/preferences-desktop-cursors.png)|![](48/preferences-desktop-cursors.png)|![](32/preferences-desktop-cursors.png)|![](24/preferences-desktop-cursors.png)|![](22/preferences-desktop-cursors.png)|![](16/preferences-desktop-cursors.png)|
 |**preferences-desktop-default-applications**|![](64/preferences-desktop-default-applications.png)|![](48/preferences-desktop-default-applications.png)|![](32/preferences-desktop-default-applications.png)|![](24/preferences-desktop-default-applications.png)|![](22/preferences-desktop-default-applications.png)|![](16/preferences-desktop-default-applications.png)|
 |**preferences-desktop-effects**|![](64/preferences-desktop-effects.png)|![](48/preferences-desktop-effects.png)|![](32/preferences-desktop-effects.png)|![](24/preferences-desktop-effects.png)|![](22/preferences-desktop-effects.png)|![](16/preferences-desktop-effects.png)|
 |**preferences-desktop-font**|![](64/preferences-desktop-font.png)|![](48/preferences-desktop-font.png)|![](32/preferences-desktop-font.png)|![](24/preferences-desktop-font.png)|![](22/preferences-desktop-font.png)|![](16/preferences-desktop-font.png)|
@@ -388,6 +401,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**preferences-desktop-system-time**|![](64/preferences-desktop-system-time.png)|![](48/preferences-desktop-system-time.png)|![](32/preferences-desktop-system-time.png)|![](24/preferences-desktop-system-time.png)|![](22/preferences-desktop-system-time.png)|![](16/preferences-desktop-system-time.png)|
 |**preferences-desktop-theme**|![](64/preferences-desktop-theme.png)|![](48/preferences-desktop-theme.png)|![](32/preferences-desktop-theme.png)|![](24/preferences-desktop-theme.png)|![](22/preferences-desktop-theme.png)|![](16/preferences-desktop-theme.png)|
 |**preferences-desktop-wallpaper**|![](64/preferences-desktop-wallpaper.png)|![](48/preferences-desktop-wallpaper.png)|![](32/preferences-desktop-wallpaper.png)|![](24/preferences-desktop-wallpaper.png)|![](22/preferences-desktop-wallpaper.png)|![](16/preferences-desktop-wallpaper.png)|
+|**preferences-security**|![](64/preferences-security.png)|![](48/preferences-security.png)|![](32/preferences-security.png)|![](24/preferences-security.png)|![](22/preferences-security.png)|![](16/preferences-security.png)|
 |**preferences-system**|![](64/preferences-system.png)|![](48/preferences-system.png)|![](32/preferences-system.png)|![](24/preferences-system.png)|![](22/preferences-system.png)|![](16/preferences-system.png)|
 |**preferences-system-firewall**|![](64/preferences-system-firewall.png)|![](48/preferences-system-firewall.png)|![](32/preferences-system-firewall.png)|![](24/preferences-system-firewall.png)|![](22/preferences-system-firewall.png)|![](16/preferences-system-firewall.png)|
 |**preferences-system-login**|![](64/preferences-system-login.png)|![](48/preferences-system-login.png)|![](32/preferences-system-login.png)|![](24/preferences-system-login.png)|![](22/preferences-system-login.png)|![](16/preferences-system-login.png)|
@@ -416,6 +430,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**redhat-server_settings**|![](64/redhat-server_settings.png)|![](48/redhat-server_settings.png)|![](32/redhat-server_settings.png)|![](24/redhat-server_settings.png)|![](22/redhat-server_settings.png)|![](16/redhat-server_settings.png)|
 |**redhat-tools**|![](64/redhat-tools.png)|![](48/redhat-tools.png)|![](32/redhat-tools.png)|![](24/redhat-tools.png)|![](22/redhat-tools.png)|![](16/redhat-tools.png)|
 |**regedit**|![](64/regedit.png)|![](48/regedit.png)|![](32/regedit.png)|![](24/regedit.png)|![](22/regedit.png)|![](16/regedit.png)|
+|**regedit-binary-lock**|![](64/regedit-binary-lock.png)|![](48/regedit-binary-lock.png)|![](32/regedit-binary-lock.png)|![](24/regedit-binary-lock.png)|![](22/regedit-binary-lock.png)|![](16/regedit-binary-lock.png)|
 |**revenge**|![](64/revenge.png)|![](48/revenge.png)|![](32/revenge.png)|![](24/revenge.png)|![](22/revenge.png)|![](16/revenge.png)|
 |**rhythmbox**|![](64/rhythmbox.png)|![](48/rhythmbox.png)|![](32/rhythmbox.png)|![](24/rhythmbox.png)|![](22/rhythmbox.png)|![](16/rhythmbox.png)|
 |**rip**|![](64/rip.png)|![](48/rip.png)|![](32/rip.png)|![](24/rip.png)|![](22/rip.png)|![](16/rip.png)|
@@ -456,8 +471,10 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**system-config-securitylevel**|![](64/system-config-securitylevel.png)|![](48/system-config-securitylevel.png)|![](32/system-config-securitylevel.png)|![](24/system-config-securitylevel.png)|![](22/system-config-securitylevel.png)|![](16/system-config-securitylevel.png)|
 |**system-file-manager**|![](64/system-file-manager.png)|![](48/system-file-manager.png)|![](32/system-file-manager.png)|![](24/system-file-manager.png)|![](22/system-file-manager.png)|![](16/system-file-manager.png)|
 |**system-hibernate**|![](64/system-hibernate.png)|![](48/system-hibernate.png)|![](32/system-hibernate.png)|![](24/system-hibernate.png)|![](22/system-hibernate.png)|![](16/system-hibernate.png)|
+|**system-log-out**|![](64/system-log-out.png)|![](48/system-log-out.png)|![](32/system-log-out.png)|![](24/system-log-out.png)|![](22/system-log-out.png)|![](16/system-log-out.png)|
 |**system-search**|![](64/system-search.png)|![](48/system-search.png)|![](32/system-search.png)|![](24/system-search.png)|![](22/system-search.png)|![](16/system-search.png)|
 |**system-settings**|![](64/system-settings.png)|![](48/system-settings.png)|![](32/system-settings.png)|![](24/system-settings.png)|![](22/system-settings.png)|![](16/system-settings.png)|
+|**system-shutdown**|![](64/system-shutdown.png)|![](48/system-shutdown.png)|![](32/system-shutdown.png)|![](24/system-shutdown.png)|![](22/system-shutdown.png)|![](16/system-shutdown.png)|
 |**system-software-installer**|![](64/system-software-installer.png)|![](48/system-software-installer.png)|![](32/system-software-installer.png)|![](24/system-software-installer.png)|![](22/system-software-installer.png)|![](16/system-software-installer.png)|
 |**system-software-update**|![](64/system-software-update.png)|![](48/system-software-update.png)|![](32/system-software-update.png)|![](24/system-software-update.png)|![](22/system-software-update.png)|![](16/system-software-update.png)|
 |**system-suspend**|![](64/system-suspend.png)|![](48/system-suspend.png)|![](32/system-suspend.png)|![](24/system-suspend.png)|![](22/system-suspend.png)|![](16/system-suspend.png)|
@@ -548,6 +565,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfce4-weather**|![](64/xfce4-weather.png)|![](48/xfce4-weather.png)|![](32/xfce4-weather.png)|![](24/xfce4-weather.png)|![](22/xfce4-weather.png)|![](16/xfce4-weather.png)|
 |**xfce4-xicon1**|![](64/xfce4-xicon1.png)|![](48/xfce4-xicon1.png)|![](32/xfce4-xicon1.png)|![](24/xfce4-xicon1.png)|![](22/xfce4-xicon1.png)|![](16/xfce4-xicon1.png)|
 |**xfsm-hibernate**|![](64/xfsm-hibernate.png)|![](48/xfsm-hibernate.png)|![](32/xfsm-hibernate.png)|![](24/xfsm-hibernate.png)|![](22/xfsm-hibernate.png)|![](16/xfsm-hibernate.png)|
+|**xfsm-reboot**|![](64/xfsm-reboot.png)|![](48/xfsm-reboot.png)|![](32/xfsm-reboot.png)|![](24/xfsm-reboot.png)|![](22/xfsm-reboot.png)|![](16/xfsm-reboot.png)|
 |**xfsm-suspend**|![](64/xfsm-suspend.png)|![](48/xfsm-suspend.png)|![](32/xfsm-suspend.png)|![](24/xfsm-suspend.png)|![](22/xfsm-suspend.png)|![](16/xfsm-suspend.png)|
 |**xfsm-switch**|![](64/xfsm-switch.png)|![](48/xfsm-switch.png)|![](32/xfsm-switch.png)|![](24/xfsm-switch.png)|![](22/xfsm-switch.png)|![](16/xfsm-switch.png)|
 |**xmoto**|![](64/xmoto.png)|![](48/xmoto.png)|![](32/xmoto.png)|![](24/xmoto.png)|![](22/xmoto.png)|![](16/xmoto.png)|
