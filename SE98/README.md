@@ -1,4 +1,4 @@
-# SSE98 icon theme in Win 98 SE style.
+# SE98 icon theme in Win 98 SE style.
 
 The description of scripts:
 
