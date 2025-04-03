@@ -1,7 +1,34 @@
 "Personal Fonts"
 "About KDE"
+
+
+== kwin ===
 merge
 split
+transform-crop-and-resize
+transform-move
+transform-scale
+resizecol
+resizerow
+osd-shutd-screen
+osd-duplicate
+window-shade
+region
+view-time-schedule-baselined-remove
+window-keep-above
+window-keep-below
+kt-show-statusbar
+org.kde.plasma.pager
+preferences-system-windows-effect-flipswitch
+preferences-system-windows-effect-glide
+edit-opacity
+composite-track-on
+dialog-apply-* (cleanup)
+value-decrease
+value-increase
+tools-check-spellcheck-symbolic (cleanup)
+tools
+embosstool
 
 == original ===
 
