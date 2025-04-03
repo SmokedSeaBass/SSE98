@@ -75,6 +75,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**clock**|![](64/clock.png)|![](48/clock.png)|![](32/clock.png)|![](24/clock.png)|![](22/clock.png)|![](16/clock.png)|
 |**codeblocks**|![](64/codeblocks.png)|![](48/codeblocks.png)|![](32/codeblocks.png)|![](24/codeblocks.png)|![](22/codeblocks.png)|![](16/codeblocks.png)|
 |**com.discordapp.Discord**|![](64/com.discordapp.Discord.png)|![](48/com.discordapp.Discord.png)|![](32/com.discordapp.Discord.png)|![](24/com.discordapp.Discord.png)|![](22/com.discordapp.Discord.png)|![](16/com.discordapp.Discord.png)|
+|**com.valvesoftware.Steam**|![](64/com.valvesoftware.Steam.png)|![](48/com.valvesoftware.Steam.png)|![](32/com.valvesoftware.Steam.png)|![](24/com.valvesoftware.Steam.png)|![](22/com.valvesoftware.Steam.png)|![](16/com.valvesoftware.Steam.png)|
 |**com.visualstudio.code**|![](64/com.visualstudio.code.png)|![](48/com.visualstudio.code.png)|![](32/com.visualstudio.code.png)|![](24/com.visualstudio.code.png)|![](22/com.visualstudio.code.png)|![](16/com.visualstudio.code.png)|
 |**comix**|![](64/comix.png)|![](48/comix.png)|![](32/comix.png)|![](24/comix.png)|![](22/comix.png)|![](16/comix.png)|
 |**config-date**|![](64/config-date.png)|![](48/config-date.png)|![](32/config-date.png)|![](24/config-date.png)|![](22/config-date.png)|![](16/config-date.png)|
