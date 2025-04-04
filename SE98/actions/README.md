@@ -23,6 +23,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**blueman-send**|![](64/blueman-send.png)|![](48/blueman-send.png)|![](32/blueman-send.png)|![](24/blueman-send.png)|![](22/blueman-send.png)|![](16/blueman-send.png)|
 |**blueman-trust**|![](64/blueman-trust.png)|![](48/blueman-trust.png)|![](32/blueman-trust.png)|![](24/blueman-trust.png)|![](22/blueman-trust.png)|![](16/blueman-trust.png)|
 |**bookmark-new**|![](64/bookmark-new.png)|![](48/bookmark-new.png)|![](32/bookmark-new.png)|![](24/bookmark-new.png)|![](22/bookmark-new.png)|![](16/bookmark-new.png)|
+|**bookmark-remove**|![](64/bookmark-remove.png)|![](48/bookmark-remove.png)|![](32/bookmark-remove.png)|![](24/bookmark-remove.png)|![](22/bookmark-remove.png)|![](16/bookmark-remove.png)|
 |**brightness**|![](64/brightness.png)|![](48/brightness.png)|![](32/brightness.png)|![](24/brightness.png)|![](22/brightness.png)|![](16/brightness.png)|
 |**brightness-high**|![](64/brightness-high.png)|![](48/brightness-high.png)|![](32/brightness-high.png)|![](24/brightness-high.png)|![](22/brightness-high.png)|![](16/brightness-high.png)|
 |**call-start**|![](64/call-start.png)|![](48/call-start.png)|![](32/call-start.png)|![](24/call-start.png)|![](22/call-start.png)|![](16/call-start.png)|
@@ -85,6 +86,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**epiphany-download**|![](64/epiphany-download.png)|![](48/epiphany-download.png)|![](32/epiphany-download.png)|![](24/epiphany-download.png)|![](22/epiphany-download.png)|![](16/epiphany-download.png)|
 |**event-new**|![](64/event-new.png)|![](48/event-new.png)|![](32/event-new.png)|![](24/event-new.png)|![](22/event-new.png)|![](16/event-new.png)|
 |**extract-archive**|![](64/extract-archive.png)|![](48/extract-archive.png)|![](32/extract-archive.png)|![](24/extract-archive.png)|![](22/extract-archive.png)|![](16/extract-archive.png)|
+|**favorite**|![](64/favorite.png)|![](48/favorite.png)|![](32/favorite.png)|![](24/favorite.png)|![](22/favorite.png)|![](16/favorite.png)|
 |**find**|![](64/find.png)|![](48/find.png)|![](32/find.png)|![](24/find.png)|![](22/find.png)|![](16/find.png)|
 |**folder-copy**|![](64/folder-copy.png)|![](48/folder-copy.png)|![](32/folder-copy.png)|![](24/folder-copy.png)|![](22/folder-copy.png)|![](16/folder-copy.png)|
 |**folder-move**|![](64/folder-move.png)|![](48/folder-move.png)|![](32/folder-move.png)|![](24/folder-move.png)|![](22/folder-move.png)|![](16/folder-move.png)|
@@ -131,6 +133,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**help**|![](64/help.png)|![](48/help.png)|![](32/help.png)|![](24/help.png)|![](22/help.png)|![](16/help.png)|
 |**help-about**|![](64/help-about.png)|![](48/help-about.png)|![](32/help-about.png)|![](24/help-about.png)|![](22/help-about.png)|![](16/help-about.png)|
 |**help-contents**|![](64/help-contents.png)|![](48/help-contents.png)|![](32/help-contents.png)|![](24/help-contents.png)|![](22/help-contents.png)|![](16/help-contents.png)|
+|**help-contextual**|![](64/help-contextual.png)|![](48/help-contextual.png)|![](32/help-contextual.png)|![](24/help-contextual.png)|![](22/help-contextual.png)|![](16/help-contextual.png)|
 |**help-faq**|![](64/help-faq.png)|![](48/help-faq.png)|![](32/help-faq.png)|![](24/help-faq.png)|![](22/help-faq.png)|![](16/help-faq.png)|
 |**im-message-new**|![](64/im-message-new.png)|![](48/im-message-new.png)|![](32/im-message-new.png)|![](24/im-message-new.png)|![](22/im-message-new.png)|![](16/im-message-new.png)|
 |**image-adjust**|![](64/image-adjust.png)|![](48/image-adjust.png)|![](32/image-adjust.png)|![](24/image-adjust.png)|![](22/image-adjust.png)|![](16/image-adjust.png)|
@@ -143,6 +146,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**insert-text**|![](64/insert-text.png)|![](48/insert-text.png)|![](32/insert-text.png)|![](24/insert-text.png)|![](22/insert-text.png)|![](16/insert-text.png)|
 |**install**|![](64/install.png)|![](48/install.png)|![](32/install.png)|![](24/install.png)|![](22/install.png)|![](16/install.png)|
 |**internet-radio-new**|![](64/internet-radio-new.png)|![](48/internet-radio-new.png)|![](32/internet-radio-new.png)|![](24/internet-radio-new.png)|![](22/internet-radio-new.png)|![](16/internet-radio-new.png)|
+|**internet-services**|![](64/internet-services.png)|![](48/internet-services.png)|![](32/internet-services.png)|![](24/internet-services.png)|![](22/internet-services.png)|![](16/internet-services.png)|
 |**iso-image-burn-22**|![](64/iso-image-burn-22.png)|![](48/iso-image-burn-22.png)|![](32/iso-image-burn-22.png)|![](24/iso-image-burn-22.png)|![](22/iso-image-burn-22.png)|![](16/iso-image-burn-22.png)|
 |**jockey-proprietary**|![](64/jockey-proprietary.png)|![](48/jockey-proprietary.png)|![](32/jockey-proprietary.png)|![](24/jockey-proprietary.png)|![](22/jockey-proprietary.png)|![](16/jockey-proprietary.png)|
 |**list-add**|![](64/list-add.png)|![](48/list-add.png)|![](32/list-add.png)|![](24/list-add.png)|![](22/list-add.png)|![](16/list-add.png)|
@@ -168,6 +172,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**mail-send**|![](64/mail-send.png)|![](48/mail-send.png)|![](32/mail-send.png)|![](24/mail-send.png)|![](22/mail-send.png)|![](16/mail-send.png)|
 |**mail-send-receive**|![](64/mail-send-receive.png)|![](48/mail-send-receive.png)|![](32/mail-send-receive.png)|![](24/mail-send-receive.png)|![](22/mail-send-receive.png)|![](16/mail-send-receive.png)|
 |**mail_spam**|![](64/mail_spam.png)|![](48/mail_spam.png)|![](32/mail_spam.png)|![](24/mail_spam.png)|![](22/mail_spam.png)|![](16/mail_spam.png)|
+|**map-globe**|![](64/map-globe.png)|![](48/map-globe.png)|![](32/map-globe.png)|![](24/map-globe.png)|![](22/map-globe.png)|![](16/map-globe.png)|
 |**media-eject**|![](64/media-eject.png)|![](48/media-eject.png)|![](32/media-eject.png)|![](24/media-eject.png)|![](22/media-eject.png)|![](16/media-eject.png)|
 |**media-eq**|![](64/media-eq.png)|![](48/media-eq.png)|![](32/media-eq.png)|![](24/media-eq.png)|![](22/media-eq.png)|![](16/media-eq.png)|
 |**media-import-audio-cd**|![](64/media-import-audio-cd.png)|![](48/media-import-audio-cd.png)|![](32/media-import-audio-cd.png)|![](24/media-import-audio-cd.png)|![](22/media-import-audio-cd.png)|![](16/media-import-audio-cd.png)|
@@ -188,6 +193,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**media-skip-backward**|![](64/media-skip-backward.png)|![](48/media-skip-backward.png)|![](32/media-skip-backward.png)|![](24/media-skip-backward.png)|![](22/media-skip-backward.png)|![](16/media-skip-backward.png)|
 |**media-skip-forward**|![](64/media-skip-forward.png)|![](48/media-skip-forward.png)|![](32/media-skip-forward.png)|![](24/media-skip-forward.png)|![](22/media-skip-forward.png)|![](16/media-skip-forward.png)|
 |**media-view-subtitles**|![](64/media-view-subtitles.png)|![](48/media-view-subtitles.png)|![](32/media-view-subtitles.png)|![](24/media-view-subtitles.png)|![](22/media-view-subtitles.png)|![](16/media-view-subtitles.png)|
+|**meeting**|![](64/meeting.png)|![](48/meeting.png)|![](32/meeting.png)|![](24/meeting.png)|![](22/meeting.png)|![](16/meeting.png)|
 |**music-library**|![](64/music-library.png)|![](48/music-library.png)|![](32/music-library.png)|![](24/music-library.png)|![](22/music-library.png)|![](16/music-library.png)|
 |**node-add**|![](64/node-add.png)|![](48/node-add.png)|![](32/node-add.png)|![](24/node-add.png)|![](22/node-add.png)|![](16/node-add.png)|
 |**node-align-horizontal**|![](64/node-align-horizontal.png)|![](48/node-align-horizontal.png)|![](32/node-align-horizontal.png)|![](24/node-align-horizontal.png)|![](22/node-align-horizontal.png)|![](16/node-align-horizontal.png)|
@@ -300,10 +306,12 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**tools-check-spelling**|![](64/tools-check-spelling.png)|![](48/tools-check-spelling.png)|![](32/tools-check-spelling.png)|![](24/tools-check-spelling.png)|![](22/tools-check-spelling.png)|![](16/tools-check-spelling.png)|
 |**transform-rotate**|![](64/transform-rotate.png)|![](48/transform-rotate.png)|![](32/transform-rotate.png)|![](24/transform-rotate.png)|![](22/transform-rotate.png)|![](16/transform-rotate.png)|
 |**upload**|![](64/upload.png)|![](48/upload.png)|![](32/upload.png)|![](24/upload.png)|![](22/upload.png)|![](16/upload.png)|
+|**view-calendar**|![](64/view-calendar.png)|![](48/view-calendar.png)|![](32/view-calendar.png)|![](24/view-calendar.png)|![](22/view-calendar.png)|![](16/view-calendar.png)|
 |**view-column**|![](64/view-column.png)|![](48/view-column.png)|![](32/view-column.png)|![](24/view-column.png)|![](22/view-column.png)|![](16/view-column.png)|
 |**view-column.png**|![](64/view-column.png.png)|![](48/view-column.png.png)|![](32/view-column.png.png)|![](24/view-column.png.png)|![](22/view-column.png.png)|![](16/view-column.png.png)|
 |**view-continuous**|![](64/view-continuous.png)|![](48/view-continuous.png)|![](32/view-continuous.png)|![](24/view-continuous.png)|![](22/view-continuous.png)|![](16/view-continuous.png)|
 |**view-coverflow**|![](64/view-coverflow.png)|![](48/view-coverflow.png)|![](32/view-coverflow.png)|![](24/view-coverflow.png)|![](22/view-coverflow.png)|![](16/view-coverflow.png)|
+|**view-currency-list**|![](64/view-currency-list.png)|![](48/view-currency-list.png)|![](32/view-currency-list.png)|![](24/view-currency-list.png)|![](22/view-currency-list.png)|![](16/view-currency-list.png)|
 |**view-dual**|![](64/view-dual.png)|![](48/view-dual.png)|![](32/view-dual.png)|![](24/view-dual.png)|![](22/view-dual.png)|![](16/view-dual.png)|
 |**view-filter**|![](64/view-filter.png)|![](48/view-filter.png)|![](32/view-filter.png)|![](24/view-filter.png)|![](22/view-filter.png)|![](16/view-filter.png)|
 |**view-fullscreen**|![](64/view-fullscreen.png)|![](48/view-fullscreen.png)|![](32/view-fullscreen.png)|![](24/view-fullscreen.png)|![](22/view-fullscreen.png)|![](16/view-fullscreen.png)|
@@ -331,7 +339,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**viewlog**|![](64/viewlog.png)|![](48/viewlog.png)|![](32/viewlog.png)|![](24/viewlog.png)|![](22/viewlog.png)|![](16/viewlog.png)|
 |**viewmag1**|![](64/viewmag1.png)|![](48/viewmag1.png)|![](32/viewmag1.png)|![](24/viewmag1.png)|![](22/viewmag1.png)|![](16/viewmag1.png)|
 |**viewmagfit**|![](64/viewmagfit.png)|![](48/viewmagfit.png)|![](32/viewmagfit.png)|![](24/viewmagfit.png)|![](22/viewmagfit.png)|![](16/viewmagfit.png)|
-|**virtual-dekstops**|![](64/virtual-dekstops.png)|![](48/virtual-dekstops.png)|![](32/virtual-dekstops.png)|![](24/virtual-dekstops.png)|![](22/virtual-dekstops.png)|![](16/virtual-dekstops.png)|
 |**virtual-desktops**|![](64/virtual-desktops.png)|![](48/virtual-desktops.png)|![](32/virtual-desktops.png)|![](24/virtual-desktops.png)|![](22/virtual-desktops.png)|![](16/virtual-desktops.png)|
 |**visualization**|![](64/visualization.png)|![](48/visualization.png)|![](32/visualization.png)|![](24/visualization.png)|![](22/visualization.png)|![](16/visualization.png)|
 |**vmware-disabled**|![](64/vmware-disabled.png)|![](48/vmware-disabled.png)|![](32/vmware-disabled.png)|![](24/vmware-disabled.png)|![](22/vmware-disabled.png)|![](16/vmware-disabled.png)|

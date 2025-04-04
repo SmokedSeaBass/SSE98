@@ -1,6 +1,6 @@
 # Emblems
 
-Total **43** icons in **emblems** context.
+Total **44** icons in **emblems** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|**10x10**|
 |-|-|-|-|-|-|-|-|
@@ -45,5 +45,6 @@ Total **43** icons in **emblems** context.
 |**emblem-urgent**|![](64/emblem-urgent.png)|![](48/emblem-urgent.png)|![](32/emblem-urgent.png)|![](24/emblem-urgent.png)|![](22/emblem-urgent.png)|![](16/emblem-urgent.png)|![](10/emblem-urgent.png)|
 |**emblem-videos-symbolic**|![](64/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|![](48/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|![](32/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|![](24/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|![](22/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|![](16/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|![](10/emblem-videos.png)<details><summary>*link:* </summary>*emblem-videos.png*</details>|
 |**emblem-videos**|![](64/emblem-videos.png)|![](48/emblem-videos.png)|![](32/emblem-videos.png)|![](24/emblem-videos.png)|![](22/emblem-videos.png)|![](16/emblem-videos.png)|![](10/emblem-videos.png)|
+|**emblem-warning**|![](64/emblem-warning.png)|![](48/emblem-warning.png)|![](32/emblem-warning.png)|![](24/emblem-warning.png)|![](22/emblem-warning.png)|![](16/emblem-warning.png)|![](10/emblem-warning.png)|
 |**emblem-web**|![](64/emblem-web.png)|![](48/emblem-web.png)|![](32/emblem-web.png)|![](24/emblem-web.png)|![](22/emblem-web.png)|![](16/emblem-web.png)|![](10/emblem-web.png)|
 |**globe-symbolic**|![](64/emblem-web.png)<details><summary>*link:* </summary>*emblem-web.png*</details>|![](48/emblem-web.png)<details><summary>*link:* </summary>*emblem-web.png*</details>|![](32/emblem-web.png)<details><summary>*link:* </summary>*emblem-web.png*</details>|![](24/emblem-web.png)<details><summary>*link:* </summary>*emblem-web.png*</details>|![](22/emblem-web.png)<details><summary>*link:* </summary>*emblem-web.png*</details>|![](16/emblem-web.png)<details><summary>*link:* </summary>*emblem-web.png*</details>|![](10/globe-symbolic.png)|

@@ -36,4 +36,5 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**emblem-unreadable**|![](64/emblem-unreadable.png)|![](48/emblem-unreadable.png)|![](32/emblem-unreadable.png)|![](24/emblem-unreadable.png)|![](22/emblem-unreadable.png)|![](16/emblem-unreadable.png)|![](10/emblem-unreadable.png)|
 |**emblem-urgent**|![](64/emblem-urgent.png)|![](48/emblem-urgent.png)|![](32/emblem-urgent.png)|![](24/emblem-urgent.png)|![](22/emblem-urgent.png)|![](16/emblem-urgent.png)|![](10/emblem-urgent.png)|
 |**emblem-videos**|![](64/emblem-videos.png)|![](48/emblem-videos.png)|![](32/emblem-videos.png)|![](24/emblem-videos.png)|![](22/emblem-videos.png)|![](16/emblem-videos.png)|![](10/emblem-videos.png)|
+|**emblem-warning**|![](64/emblem-warning.png)|![](48/emblem-warning.png)|![](32/emblem-warning.png)|![](24/emblem-warning.png)|![](22/emblem-warning.png)|![](16/emblem-warning.png)|![](10/emblem-warning.png)|
 |**emblem-web**|![](64/emblem-web.png)|![](48/emblem-web.png)|![](32/emblem-web.png)|![](24/emblem-web.png)|![](22/emblem-web.png)|![](16/emblem-web.png)|![](10/emblem-web.png)|
